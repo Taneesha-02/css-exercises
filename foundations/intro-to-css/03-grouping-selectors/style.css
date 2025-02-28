@@ -1,0 +1,13 @@
+.blackk{
+    color: white;
+    background-color: black;
+}
+
+.yelloww{
+    background-color: yellow;
+}
+
+.blackk , .yelloww{
+    font-size: 24px;
+    font-family: Helvetica ,"Times New Roman","sans-serif";
+}
